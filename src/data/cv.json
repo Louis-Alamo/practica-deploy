@@ -1,0 +1,12 @@
+{
+  "nombre": "Juan Pérez",
+  "email": "juan.perez@example.com",
+  "telefono": "123-456-7890",
+  "experiencia": [
+    {
+      "puesto": "Desarrollador Web",
+      "empresa": "Empresa Ejemplo",
+      "años": 2
+    }
+  ]
+}
